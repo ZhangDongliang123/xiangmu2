@@ -211,7 +211,7 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: url("E:/html5/新建文件夹/我去网/img/show1.jpg") 50% 0% no-repeat rgb(84, 141, 212);
+	background: url("../img/show1.jpg") 50% 0% no-repeat rgb(84, 141, 212);
 }
 .show1 li:nth-of-type(2){
 	width: 100%;
@@ -220,7 +220,7 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: url("E:/html5/新建文件夹/我去网/img/show2.jpg") 50% 0% no-repeat rgb(216,216,216);
+	background: url(../img/show2.jpg) 50% 0% no-repeat rgb(216,216,216);
 }
 .show1 li:nth-of-type(3){
 	width: 100%;
@@ -229,7 +229,7 @@
 	top: 0;
 	left: 0;*/
 	display: none;
-	background: url("E:/html5/新建文件夹/我去网/img/show3.jpg") 50% 0% no-repeat ;
+	background: url("../img/show3.jpg") 50% 0% no-repeat ;
 }
 .show1 li:nth-of-type(4){
 	width: 100%;
@@ -238,7 +238,7 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: url("E:/html5/新建文件夹/我去网/img/show4.jpg") 50% 0% no-repeat #fff;
+	background: url("../img/show4.jpg") 50% 0% no-repeat #fff;
 }
 .show1 li:nth-of-type(5){
 	width: 100%;
@@ -247,7 +247,7 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: url("E:/html5/新建文件夹/我去网/img/show5.jpg") 50% 0% no-repeat rgb(253,234,218);
+	background: url("../img/show5.jpg") 50% 0% no-repeat rgb(253,234,218);
 }
 .show1 li a{
 	width: 778px;
